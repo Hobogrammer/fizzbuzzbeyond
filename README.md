@@ -5,12 +5,12 @@ Small project implementing the famous fizzbuzz problem and a second extensible, 
 
 
 fizzbuzz.rb
-===
+-----------
 
 Straight forwad script that takes a number from the uster to run fizzbuzz up to and utilizes the modulous operator to check for a remainder of zero. If the remainder of zero the script puts put its specific version of "Fizz".
 
 fizzbuzzexpanded.rb
-===
+-------------------
 
 Takes an object oriented approach to solve the problem using classes and methods. The script can be edited to take custom values beyond the usual Fizz and Buzz. The syntax to add these is `.set_custom_value(#number, $value)`. Example:
 
